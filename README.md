@@ -1,2 +1,2 @@
 # lab-agile-planning
-IBM Course on Agile
+this repository contains the lab for agile planning
